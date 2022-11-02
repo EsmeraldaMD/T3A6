@@ -42,3 +42,8 @@ Bono por antiguedad:
 
 Slario neto a pagar:
 ~~~
+
+## Etapa 3.
+![](https://github.com/EsmeraldaMD/T3A6/blob/main/T3a6.png)
+
+## Etapa 4.Desarrollo de la solución
