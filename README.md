@@ -11,3 +11,34 @@ Además del sueldo base se debe agregar un bono por antigüedad bajo las siguien
 
 Realizar el cálculo respectivo del ISR sobre el sueldo bruto.
 Por último, mostrar un reporte de los trabajadores con sus datos, su salario bruto, ISR, bono por antigüedad y salario neto a pagar.
+
+
+## Etapa 2. Especificaciones
+
+
+1. Entrada 
+
+-Empleados: nombre, apellidos, RFC, CURP, email, teléfono, No. de contrato, tipo de empelado, años de atiguedad, horas laborales de contrato, salario base 
+
+
+2. Proceso
+
+-Calcular bono por antiguedad 
+
+
+-Calculo del ISR
+
+3. Salida
+
+-Reporte de los trabajdores 
+~~~
+Nombre:                     
+CURP:              RFC: 
+Email:             Telefono:
+
+Slario bruto:
+ISR:
+Bono por antiguedad:
+
+Slario neto a pagar:
+~~~
