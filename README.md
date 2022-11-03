@@ -30,14 +30,15 @@ Nombre:
 CURP:              RFC: 
 Email:             Telefono:
 
-Slario bruto:
+Salario bruto:
 ISR:
 Bono por antiguedad:
 
-Slario neto a pagar:
+Salario neto a pagar:
 ~~~
 
 ## Etapa 3.
 ![](https://github.com/EsmeraldaMD/T3A6/blob/main/T3a6.png)
 
 ## Etapa 4.Desarrollo de la solución
+https://github.com/EsmeraldaMD/T3A6/blob/main/T3A6.zip
