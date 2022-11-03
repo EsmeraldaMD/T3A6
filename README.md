@@ -41,4 +41,4 @@ Salario neto a pagar:
 ![](https://github.com/EsmeraldaMD/T3A6/blob/main/T3a6.png)
 
 ## Etapa 4.Desarrollo de la solución
-https://github.com/EsmeraldaMD/T3A6/blob/main/T3A6.zip
+https://github.com/EsmeraldaMD/T3A6/blob/main/T3A6.zip 
