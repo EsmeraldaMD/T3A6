@@ -17,20 +17,14 @@ Por último, mostrar un reporte de los trabajadores con sus datos, su salario br
 
 
 1. Entrada 
-
--Empleados: nombre, apellidos, RFC, CURP, email, teléfono, No. de contrato, tipo de empelado, años de atiguedad, horas laborales de contrato, salario base 
-
+ - Empleados: nombre, apellidos, RFC, CURP, email, teléfono, No. de contrato, tipo de empelado, años de atiguedad, horas laborales de contrato, salario base 
 
 2. Proceso
-
--Calcular bono por antiguedad 
-
-
--Calculo del ISR
+ - Calcular bono por antiguedad 
+ - Calculo del ISR
 
 3. Salida
-
--Reporte de los trabajdores 
+ - Reporte de los trabajdores 
 ~~~
 Nombre:                     
 CURP:              RFC: 
